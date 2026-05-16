@@ -64,10 +64,3 @@ The analysis includes complete distributions plotted via `matplotlib`:
 2.  **Galaxy Velocities in Cluster Frame:** A visual of the velocity dispersion, mapping out the classic Gaussian-like kinematic spread typical of relaxed clusters.
 
 ---
-
-## Installation & Usage
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/galaxy-cluster-mass-analysis.git](https://github.com/YOUR_USERNAME/galaxy-cluster-mass-analysis.git)
-   cd galaxy-cluster-mass-analysis
